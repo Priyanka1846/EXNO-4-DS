@@ -1,5 +1,5 @@
 # EXNO:4-DS
-# NAME: YASHWINI m
+# NAME: YASHWINI M
 # REGISTER NUMBER: 212223230249
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
