@@ -1,4 +1,6 @@
 # EXNO:4-DS
+# NAME: PRIYANKA K
+# REGISTER NUMBER: 212223230162
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
